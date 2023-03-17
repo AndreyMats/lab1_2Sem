@@ -44,5 +44,7 @@ int main(){
     MyDestructor(Mrx1 , 1);
     MyDestructor(Mrx2 , 0);
     MyDestructor(resMrx, 0);
-    return 0;
+	//just comment   
+ return 0;
 }
+	
